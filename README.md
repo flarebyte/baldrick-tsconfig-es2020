@@ -14,7 +14,7 @@
 
 ```json
 {
-	"extends": "basic-tsconfig-es2020",
+	"extends": "basic-tsconfig-es2020"
 }
 
 ## Other
