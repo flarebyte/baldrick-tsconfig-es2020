@@ -1,0 +1,26 @@
+{
+  "name": "basic-tsconfig-es2020",
+  "version": "0.9.0",
+  "description": "Shared basic Typescript config for ES2020",
+  "license": "MIT",
+  "repository": "flarebyte/basic-tsconfig-es2020",
+  "author": {
+    "name": "Olivier Huin",
+    "email": "npm.olivier.huin@flarebyte.com"
+  },
+  "main": "tsconfig.json",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "ts",
+    "config",
+    "configuration",
+    "ES2020"
+  ]
+}
