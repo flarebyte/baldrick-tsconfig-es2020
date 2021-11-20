@@ -1,4 +1,4 @@
-# basic-tsconfig-es2020
+# baldrick-tsconfig-es2020
 
 > Shared basic [TypeScript config](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) for ES2020
 
@@ -24,7 +24,7 @@ It includes:
 
 ## Install
 
-    $ npm install --save-dev basic-tsconfig-es2020
+    $ npm install --save-dev baldrick-tsconfig-es2020
 
 ## Usage
 
@@ -32,7 +32,7 @@ It includes:
 
 ```json
 {
-	"extends": "basic-tsconfig-es2020"
+	"extends": "baldrick-tsconfig-es2020"
 }
 ```
 
